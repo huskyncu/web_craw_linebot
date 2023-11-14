@@ -1,5 +1,15 @@
 # web_craw_linebot
 
-## ¦p¦ó°õ¦æ
+## å¦‚ä½•åŸ·è¡Œ
 
-°õ¦æstart.batÀÉ¡A±Nwebhookªºurl§ï¦¨§A²{¦bngrok¶}±Òªº¡A¨Ã°O±overify¡A¦¨¥\«á«K¥i¨Ï¥Î¡C
+åŸ·è¡Œstart.batæª”ï¼Œå°‡webhookçš„urlæ”¹æˆä½ ç¾åœ¨ngroké–‹å•Ÿçš„ï¼Œä¸¦è¨˜å¾—verifyï¼ŒæˆåŠŸå¾Œä¾¿å¯ä½¿ç”¨ã€‚
+
+å‰µç«‹data.json æª”ï¼Œ
+
+æ‰“ä»¥ä¸‹çš„ç¨‹å¼ç¢¼ï¼š
+```
+{
+    "channel_access_token":"YOUR_CHANNEL_ACCESS_TOKEN",
+    "channel_secret":"YOUR_CHANNEL_SECRET"
+}
+```
